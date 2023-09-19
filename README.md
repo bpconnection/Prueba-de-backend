@@ -14,13 +14,13 @@ Pip (administrador de paquetes de Python) instalado. https://pip.pypa.io/en/stab
 
 Instalación
 Sigue estos pasos para configurar y ejecutar el proyecto en tu computadora:
-
+* crear un directorio llamado restaurante 
+* Navega al directorio del proyecto:
+  cd restaurante
 * Clona el repositorio desde GitHub:
 
 git clone https://github.com/bpconnection/Prueba-de-backend.git
 
-* Navega al directorio del proyecto:
-cd restaurante
 
 * Crea un entorno virtual:
 
